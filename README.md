@@ -264,3 +264,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # vue-kg-management
 # vue-kg-management
+# vue-kg-management
